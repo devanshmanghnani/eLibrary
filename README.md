@@ -1,7 +1,3 @@
-# eLibrary
-
-eLibrary is a digital reading platform that provides users with access to a variety of eBooks across multiple categories, including comics, fiction, novels, and more. The platform also features a blog section and an admin panel for managing book content and categories.
-
 ## Project Overview
 eLibrary is designed to offer a convenient and enjoyable reading experience for users interested in exploring different genres of books. In addition to reading eBooks, users can engage with blog posts, stay updated on new releases, and explore a diverse selection of content. The admin panel allows for efficient management of books and categories, ensuring a continually updated library.
 
